@@ -1,5 +1,7 @@
 Homebrew tap for vlang, forked from [homebrew-blakek](https://github.com/blakek/homebrew-blakek).
 
+### For now, still just follow the vlang [install instructions](https://github.com/vlang/v#installing-v-from-source).
+
 ## Usage
 
 Using [Homebrew](https://brew.sh/) you can install v with this command:
